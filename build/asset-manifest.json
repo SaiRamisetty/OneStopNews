@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OneStopNews/static/css/main.db62923b.css",
+    "main.js": "/OneStopNews/static/js/main.73370636.js",
+    "static/js/453.ab944cd9.chunk.js": "/OneStopNews/static/js/453.ab944cd9.chunk.js",
+    "index.html": "/OneStopNews/index.html",
+    "main.db62923b.css.map": "/OneStopNews/static/css/main.db62923b.css.map",
+    "main.73370636.js.map": "/OneStopNews/static/js/main.73370636.js.map",
+    "453.ab944cd9.chunk.js.map": "/OneStopNews/static/js/453.ab944cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.73370636.js"
+  ]
+}
